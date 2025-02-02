@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Grant access to anything in internal files/ directory -->
+    <files-path
+        name="internal_files"
+        path="." />
+</paths>
