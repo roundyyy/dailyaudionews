@@ -11,7 +11,7 @@ Daily Audio News is an Android application that delivers daily audio news update
 - ⏯️ Full media playback controls (play, pause, stop)
 - 🎚️ Progress bar with seek functionality
 - ⏰ Countdown timer to next news update
-- 📱 Background playback support with notification controls
+- 📱 Background playback support
 - 🔒 Secure HTTPS file downloads
 - 💾 Efficient local file caching
 
@@ -27,9 +27,10 @@ Daily Audio News is an Android application that delivers daily audio news update
 
 ## Installation
 
-1. Download the latest APK from the [Releases](../../releases) page
+1. Download the latest APK from the [Releases](../../releases) page (or compile from the source)
 2. Enable installation from unknown sources in your Android settings
 3. Install the APK on your Android device
+
 
 ## Usage
 
