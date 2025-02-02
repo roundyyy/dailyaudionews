@@ -1,5 +1,7 @@
 # Daily Audio News
 
+![Screenshot](screenshot.jpg)
+
 Daily Audio News is an Android application that delivers daily audio news updates. The app features a simple, intuitive interface for playing and managing your daily news content.
 
 ## Features
